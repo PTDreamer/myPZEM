@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name nodemcu)(type Legacy)(uri "/home/jose/Projetos em NAS/Projetos/pzemQuadro/pzem/LoLin_Designs-master/lolin_v3.lib")(options "")(descr ""))
+)

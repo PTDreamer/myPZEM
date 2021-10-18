@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pzem)(type KiCad)(uri ${KIPRJMOD}/pzem.pretty)(options "")(descr ""))
+)
